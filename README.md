@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Tonie! 👋  <br>## Data Analyst | Data Scientist | AI/ML Enthusiast  <br><br>I am passionate about leveraging data to drive decision-making and solving complex problems using AI and Machine Learning. My GitHub repositories reflect my journey of learning, experimenting, and building data-driven solutions.  <br><br>### 🌟 Skills & Expertise:<br>- **Programming:** Python, R, SQL, MATLAB  <br>- **Machine Learning Frameworks:** TensorFlow, PyTorch, Scikit-Learn  <br>- **Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Power BI  <br>- **Big Data Tools:** Apache Spark, Hadoop  <br>- **Database Management:** MySQL, SQL, PostgreSQL  <br>
+# Hi, I'm Tonie! 👋 ## Data Analyst | Data Scientist | AI/ML Enthusiast <br>I am passionate about leveraging data to drive decision-making and solving complex problems using AI and Machine Learning. My GitHub repositories reflect my journey of learning, experimenting, and building data-driven solutions.  <br><br>### 🌟 Skills & Expertise:<br>- **Programming:** Python, R, SQL, MATLAB  <br>- **Machine Learning Frameworks:** TensorFlow, PyTorch, Scikit-Learn  <br>- **Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Power BI  <br>- **Big Data Tools:** Apache Spark, Hadoop  <br>- **Database Management:** MySQL, SQL, PostgreSQL  <br>
 
 
 # 💻 Tech Stack:
