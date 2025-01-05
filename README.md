@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Tonie! 👋 
+# Hi, I'm Antony! 👋 
 ## Data Analyst | Data Scientist | AI/ML Enthusiast  
 <small>
 I am passionate about leveraging data to drive decision-making and solving complex problems using AI and Machine Learning. My GitHub repositories reflect my journey of learning, experimenting, and building data-driven solutions.  
